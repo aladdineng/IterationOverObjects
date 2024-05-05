@@ -14,7 +14,7 @@ console.log(person);
 ********************************/
 person.email = "aladdin.enbeh@gmail.com";
 console.log(person);
-/******************************
+/*******************************
 	Q3) Write a JavaScript function called hasKey that takes two arguments:
  an object and a key. The function should return true if the object contains
  the specified key, and false otherwise. For example, if the object is
